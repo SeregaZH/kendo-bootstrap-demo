@@ -366,3 +366,13 @@ header .container h1.visible-sm {
     background-color: #212a33;
     color: #fff;
 }
+
+.k-moonlight body,
+.k-moonlight .well,
+.k-moonlight .ra-well-title,
+.k-moonlight .buttons-wrap
+{
+    border-color: #171e28;
+    background-color: #212a33;
+    color: #fff;
+}
